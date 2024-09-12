@@ -68,5 +68,3 @@ OR (||):
 
 - [ ] Verdadeiro
 - [x] Falso
-```
-
