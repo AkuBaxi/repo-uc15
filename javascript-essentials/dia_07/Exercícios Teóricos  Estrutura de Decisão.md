@@ -11,10 +11,10 @@ R: O uso de switch case geralmente melhora a legibilidade quando se tem muitas c
 
 **Qual é a função principal da palavra-chave break em um switch case?**
 
-- a) Iniciar um novo bloco de código
-- **b) Encerrar a execução do switch e passar para o código seguinte**
-- c) Definir um caso padrão
-- d) Comparar o valor da expressão com o caso
+- [ ]a) Iniciar um novo bloco de código
+- [x]b) Encerrar a execução do switch e passar para o código seguinte**
+- [ ] c) Definir um caso padrão
+- [ ] d) Comparar o valor da expressão com o caso
 
 ## Questão de Caixa de Múltiplas Escolhas
 
