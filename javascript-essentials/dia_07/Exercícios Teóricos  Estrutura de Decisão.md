@@ -59,9 +59,9 @@ d) O break é sempre necessário ao final de cada case.
 | 3. break | C. Inicia a estrutura de decisão |
 | 4. default | D. Previne a execução do próximo caso |
 
-**Respostas:**
+**Justificativa:**
+1 = C
+2 = A
+3 = D
+4 = B
 
-1. switch - C. Inicia a estrutura de decisão
-2. case - A. Palavra-chave que define um caso específico
-3. break - D. Previne a execução do próximo caso
-4. default - B. Bloco executado se nenhum caso corresponder
