@@ -69,5 +69,3 @@ Recomenda-se usar === para evitar comparações inesperadas e garantir uma compa
 3 = E
 4 = B
 5 = C
-```
-
