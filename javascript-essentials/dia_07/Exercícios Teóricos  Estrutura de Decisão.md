@@ -29,10 +29,24 @@ R: O uso de switch case geralmente melhora a legibilidade quando se tem muitas c
 
 **Determine se as seguintes afirmações são verdadeiras ou falsas:**
 
-- F a) O switch case só pode ser usado com valores numéricos.
-- V b) É possível ter múltiplos case que executem o mesmo bloco de código.
-- F c) A cláusula default deve sempre ser a última no switch case.
-- F d) O break é sempre necessário ao final de cada case.
+a) O switch case só pode ser usado com valores numéricos.
+- [ ] Verdadeiro
+- [x] Falso
+
+  
+b) É possível ter múltiplos case que executem o mesmo bloco de código.
+- [x] Verdadeiro
+- [ ] Falso
+
+ 
+c) A cláusula default deve sempre ser a última no switch case.
+- [ ] Verdadeiro
+- [x] Falso
+
+d) O break é sempre necessário ao final de cada case.
+- [ ] Verdadeiro
+- [x] Falso
+
 
 ## Questão de Associação
 
